@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "Aplicación para crear tareas desplegada en Render usando NodeJS, Express y MongoDB",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^6.10.0",
+    "node-env-file": "^0.1.8"
   }
 }
