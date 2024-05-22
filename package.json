@@ -1,0 +1,14 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Valencia",
+  "license": "ISC",
+  "description": "Aplicación para crear tareas desplegada en Render usando NodeJS, Express y MongoDB",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
