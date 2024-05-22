@@ -10,8 +10,10 @@ Feliz día profesor
 
 COMANDO: git push -u origin master
 
-ERROR: $ git remoto agregar origen https://github.com/Jcvalencia05/todo-tasks.git
-git: 'remoto' is not a git command. See 'git --help'.
+ERROR: valen@CamiloValencia MINGW64 /c/todo-tasks (master)
+$ git push -u origin master
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
 
-The most similar command is
-        remote
+Please make sure you have the correct access rights
+and the repository exists.
